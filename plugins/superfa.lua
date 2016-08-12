@@ -122,7 +122,7 @@ local channel_id = "👤ایدی: "..result.peer_id.."\n"
 if result.username then
 	channel_username = "یوزرنیم: @"..result.username
 else
-	channel_username = "@Part_Team"
+	channel_username = "@Iran_Cyberrr"
 end
 local text = title..admin_num..user_num..kicked_num..channel_id..channel_username
     send_large_msg(cb_extra.receiver, text)
