@@ -1,11 +1,5 @@
---[[
-#
-#
-#                 Allen - GPMod
-#               Expire Time plugin
-#                  
-#
-]]
+
+
 
 local function pre_process(msg)
 	local timetoexpire = 'unknown'
